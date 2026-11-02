@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-law-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Law Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "law-feeds",
     "gatewaySlug": "law-feeds",
-    "sourceHash": "v1-c1051f5ed7a7f54f119b73439c70614e227ff8e202905f4acaebdb3cb3bf5fbf",
-    "sourceCommit": "5c89d6abb778d45da5d92002eb251978622bedf9"
+    "sourceHash": "v1-de9ecc2498f550bcc9fe3cb6c928d838d72fca0aca3c5ed1ae896d4772f8a8a4",
+    "sourceCommit": "236b0a46d91f343fe094da9f499c378e88f78312"
   }
 }
